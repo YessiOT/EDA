@@ -1,2 +1,2 @@
 # EDA
-Some visualization and data analysis excercises. 
+Some visualization and data analysis excercises with pandas. 
